@@ -1,0 +1,13 @@
+[1]
+name_en="warehouse"
+id="1"
+is_vip="0"
+name="仓库"
+
+
+[2]
+name_en="l_warehouse"
+id="2"
+is_vip="1"
+name="大仓库"
+
